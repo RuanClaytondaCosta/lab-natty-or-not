@@ -4,7 +4,7 @@
  curiosidades sobre Java
 
 ## 🤖 Tecnologias Utilizadas
-Gpt
+Gpt para geração de textos sobre o contéudo abordado
 
 ## 🧐 Processo de Criação
 eu criei a base de prompts específicios o que é útil para procurar o assunto que eu queria.
